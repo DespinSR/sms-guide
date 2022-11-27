@@ -145,7 +145,7 @@ GWKD:
 - OPTIMALLY - Dive rollout of the blue square and onto the red plat.
 - IF YOU'RE LATE - you may be able to jump dive to the top of the red plat and rollout from it. Definitely want to make sure you know the distance to do it from, though. Pretty easy to bonk if you misjudge it.
 - Jump dive to the green platform, rollout, and jump dive into the shine.
-####Optimal ending:
+#### Optimal ending:
 {% include yt.html id="qW2i6vDQtB4" %}
-####Late ending:
+#### Late ending:
 {% include yt.html id="igxiTsu0qKc" %}
