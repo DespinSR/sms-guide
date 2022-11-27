@@ -59,12 +59,16 @@ As I mentioned above, the easier cycles at the top are the earlier ones. So the 
 But how should you pick your strats? What is each strat capable of? Here's a chart:
 
 | Cube Skip             | No GWKD                                     | GWKD                              |
+| ----------- | ----------- | ----------- |
 | 2nd rotation mom spin | Blue cycle                                  | Left Side (hard)                  |
 | Spin + Y              | Left Side (somewhat hard)                   | Left Side (easy) or UTM (hard)    |
 | Rollout Spin + Y      | Left Side (slightly easier than Spin+Y)     | Up the Middle or UTM (kinda hard) |
 | Speedspin             | Left Side (trivial) or Up the Middle (hard) | Up the Middle (medium)            |
 
-This is gonna depend highly on how much you optimize your movement in the first half, and how much you optimize either your GWKD or your spinjump at the top.
+Tips:
+- This is info isgonna depend highly on how much you optimize your movement in the first half, and how much you optimize either your GWKD or your spinjump at the top.
+- Count on losing time to what you usually do in practice. So if you barely make the cycle you want, then don't count on hitting it in runs.
+- Know the cycle slower than the one you aim for. Be prepared for it as a backup.
 
 ### Cube Skip
 ### 2nd Rotation Momentum Spin (Beginner)
