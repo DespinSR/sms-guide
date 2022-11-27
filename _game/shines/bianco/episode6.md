@@ -25,7 +25,7 @@ The entry strats will be similar for most skill levels, except for some small op
 ### One Slide (Advanced)
 - This is very precise and requires a lot of practice and precise control stick adjustment. I'd probably recommend this if you have a 1:17 or better, give or take a little depending on how much you like grinding precise strats.
 - To get one-slide, the most important thing to do is preserve a lot of speed going up the slope. To do this, you need to hit a very specific part of the slope:
-- <img alt="one slide visual" src="https://i.imgur.com/HfKWpkH.jpg">
+<img alt="one slide visual" src="https://i.imgur.com/HfKWpkH.jpg">
 - From there, precise control stick input is required to not bonk on the pianta or the left wall.
 - If you can tell you have a bad angle, just bail early and rollout for two slide.
 - One-slide saves around a second or maybe a bit more, depending on what you consider a "true" two-slide vs. a failed one-slide that is backed up into two-slide. 
@@ -145,7 +145,7 @@ GWKD:
 - OPTIMALLY - Dive rollout of the blue square and onto the red plat.
 - IF YOU'RE LATE - you may be able to jump dive to the top of the red plat and rollout from it. Definitely want to make sure you know the distance to do it from, though. Pretty easy to bonk if you misjudge it.
 - Jump dive to the green platform, rollout, and jump dive into the shine.
-Optimal ending:
+####Optimal ending:
 {% include yt.html id="qW2i6vDQtB4" %}
-Late ending:
+####Late ending:
 {% include yt.html id="igxiTsu0qKc" %}
