@@ -60,7 +60,7 @@ But how should you pick your strats? What is each strat capable of? Here's a cha
 
 | Cube Skip             | No GWKD                                     | GWKD                              |
 | ----------- | ----------- | ----------- |
-| 2nd rotation mom spin | Blue cycle                                  | Left Side (hard)                  |
+| 2nd rotation momentum spin | Blue cycle                                  | Left Side (hard)                  |
 | Spin + Y              | Left Side (somewhat hard)                   | Left Side (easy) or UTM (hard)    |
 | Rollout Spin + Y      | Left Side (slightly easier than Spin+Y)     | Up the Middle or UTM (kinda hard) |
 | Speedspin             | Left Side (trivial) or Up the Middle (hard) | Up the Middle (medium)            |
