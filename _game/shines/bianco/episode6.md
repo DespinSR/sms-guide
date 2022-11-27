@@ -66,7 +66,7 @@ But how should you pick your strats? What is each strat capable of? Here's a cha
 | Speedspin             | Left Side (trivial) or Up the Middle (hard) | Up the Middle (medium)            |
 
 Tips:
-- This is info isgonna depend highly on how much you optimize your movement in the first half, and how much you optimize either your GWKD or your spinjump at the top.
+- This is info is gonna depend highly on how much you optimize your movement in the first half, and how much you optimize either your GWKD or your spinjump at the top.
 - Count on losing time to what you usually do in practice. So if you barely make the cycle you want, then don't count on hitting it in runs.
 - Know the cycle slower than the one you aim for. Be prepared for it as a backup.
 
